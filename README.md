@@ -33,7 +33,7 @@
 
 **Разработка приложений frontend на Java**
 
-Участие в проекте Нетология [Neuro project] (https://github.com/netology-code/git-homeworks-neuro-pr.git)
+Участие в проекте Нетология [Neuro project](https://github.com/netology-code/git-homeworks-neuro-pr.git)
 
 О себе
 ----------------------------------------
